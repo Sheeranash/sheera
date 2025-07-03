@@ -1,4 +1,4 @@
-# 🔒 PROJECT BACKUP - SHEERA F&B WEBSITE
+# 🔒 PROJECT BACKUP - SHEERA CATERING F&B WEBSITE
 
 **TANGGAL BACKUP**: January 2025  
 **VERSION**: 1.0.0  
@@ -106,7 +106,7 @@ cd sheera
 - **Local Backup**: /Users/sheira/Desktop/ai class/
 
 ### Content Information
-- **Name**: Sheera
+- **Name**: Sheera Catering
 - **Profession**: F&B Expert & Superpower Professional
 - **Email**: sheera@fbsuperpower.com
 - **Phone**: +62 812-3456-7890

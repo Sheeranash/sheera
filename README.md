@@ -1,6 +1,6 @@
-# 🍽️ Sheera - Personal F&B Website
+# 🍽️ Sheera Catering - Personal F&B Website
 
-Website personal untuk Sheera, seorang profesional F&B dengan superpowers yang unik. Website ini menampilkan portfolio, menu, dan pengalaman dalam industri Food & Beverage.
+Website personal untuk Sheera Catering, seorang profesional F&B dengan superpowers yang unik. Website ini menampilkan portfolio, menu, dan pengalaman dalam industri Food & Beverage.
 
 ## 📋 Deskripsi Project
 
@@ -163,11 +163,11 @@ Untuk kontribusi atau saran perbaikan:
 
 ## 📄 License
 
-Project ini dibuat untuk portfolio personal Sheera. Semua hak cipta dilindungi.
+Project ini dibuat untuk portfolio personal Sheera Catering. Semua hak cipta dilindungi.
 
 ## 👤 Author
 
-**Sheera** - F&B Expert & Superpower Professional
+**Sheera Catering** - F&B Expert & Superpower Professional
 - Website: [GitHub Pages](https://sheeranash.github.io/sheera)
 - Repository: [GitHub](https://github.com/Sheeranash/sheera)
 
